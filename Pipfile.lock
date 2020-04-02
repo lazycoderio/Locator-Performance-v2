@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "93662aca3f28dbf8edd64a7d9e89e11a4c5d2b065eba436a87e0439f4068e0d4"
+            "sha256": "8fe4f02b431810db5dbf31fa2ca10a28b818278ef9e3968ab1b9a7aafe2757b2"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -28,6 +28,14 @@
                 "sha256:bdbb5b366058b1c87735603b23060962c439ac9be66f1ae91e8c7dbd7d59e262"
             ],
             "version": "==2.1.3"
+        },
+        "elasticsearch": {
+            "hashes": [
+                "sha256:d228b2d37ac0865f7631335268172dbdaa426adec1da3ed006dddf05134f89c8",
+                "sha256:f4bb05cfe55cf369bdcb4d86d0129d39d66a91fd9517b13cd4e4231fbfcf5c81"
+            ],
+            "index": "pypi",
+            "version": "==7.6.0"
         },
         "influxdb-client": {
             "hashes": [
