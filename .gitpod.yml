@@ -3,3 +3,8 @@ tasks:
 
 image:
   file: .gitpod.Dockerfile
+
+vscode:
+  extensions:
+    - esbenp.prettier-vscode@3.20.0:37/f4uBlE287wUjENFq1aA==
+    - almenon.arepl@1.0.20:Uu7lIOwyLgmNWpTwCl/iqQ==
