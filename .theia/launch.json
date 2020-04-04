@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "name": "Python: Scratch",
+      "type": "python",
+      "request": "launch",
+      "program": "file:///workspace/Locator-Performance-v2/scratch.py",
+      "console": "integratedTerminal"
+    },
+    {
       "name": "Python: Current File",
       "type": "python",
       "request": "launch",
