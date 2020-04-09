@@ -10,6 +10,7 @@ pylint = "*"
 influxdb-client = "*"
 elasticsearch = "*"
 pyyaml = "*"
+elasticsearch-py = "*"
 
 [requires]
 python_version = "3.7"
